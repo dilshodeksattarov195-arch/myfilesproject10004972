@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configuetch",
+        "uuid": 6826556,
+        "checksum": "bup84q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "production"
+    }
+}
